@@ -1,0 +1,6 @@
+name: WorldDrawer
+version: ${project.version}
+main: qn.worlddrawer.WorldDrawer
+prefix: WorldDrawer
+authors: [QN]
+website: https://01quen10.blogspot.com/
